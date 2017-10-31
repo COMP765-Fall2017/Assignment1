@@ -52,7 +52,7 @@ You only have to add code to one file: comp765_assign1/src/localizer_node.cpp. T
 - Stop and start your localizer code (ctrl-c, up, enter)
 - Start the keyboard control again (press 4 or re-launch) and make a test swim
   
-Are you able to track the robo-boogie you had in mind?  
+Are you able to track the robo-boogie you had in mind? Here is a link to some bag files that Alex kindly recorded during his development: http://cs.mcgill.ca/~akroli1/courses/comp765/bags.tar.gz You can use these with $rosbag play <filename>, which will replace the need to run Gazebo and operate the robot with your keyboard.
   
 ## Aims for your code:
 
